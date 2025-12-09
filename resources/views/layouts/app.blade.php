@@ -2,6 +2,7 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
+<<<<<<< HEAD
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz App</title>
 
@@ -35,5 +36,11 @@
         © {{ date('Y') }} Quiz App
     </footer>
 
+=======
+    <title>Quiz App</title>
+</head>
+<body style="font-family: Arial; margin: 0; padding: 30px;">
+    @yield('content')
+>>>>>>> 5c19296a6e7f22dae81376a2f83748d87c378b08
 </body>
 </html>

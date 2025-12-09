@@ -152,7 +152,11 @@ return [
     |
     | This value determines the domain and subdomains the session cookie is
     | available to. By default, the cookie will be available to the root
+<<<<<<< HEAD
     | domain without subdomains. Typically, this shouldn't be changed.
+=======
+    | domain and all subdomains. Typically, this shouldn't be changed.
+>>>>>>> 5c19296a6e7f22dae81376a2f83748d87c378b08
     |
     */
 
